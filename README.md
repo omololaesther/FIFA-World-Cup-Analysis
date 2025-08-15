@@ -1,10 +1,5 @@
-# FIFA-World-Cup-Analysis
+# FIFA World-Cup Analysis
 This project contains a PostgreSQL-based analysis of FIFA World Cup data from 2002 to 2018. The SQL queries analyze team performance metrics across five World Cup tournaments, answering key questions about participating countries, games played, wins, losses, goals scored, goals conceded, goal differences, and points earned.  
-
-# FIFA World Cup Analysis
-
-## Overview
-This project contains a PostgreSQL-based analysis of FIFA World Cup data from 2002 to 2018. The SQL queries analyze team performance metrics across five World Cup tournaments, answering key questions about participating countries, games played, wins, losses, goals scored, goals conceded, goal differences, and points earned.
 
 ## Project Description
 The `FIFA WORLD CUP ANALYSIS.sql` script uses PostgreSQL to query and aggregate data from five tables (`fifa_2002`, `fifa_2006`, `fifa_2010`, `fifa_2014`, `fifa_2018`), each representing team statistics for a specific World Cup year. The script employs `UNION ALL` to combine data across years and answers the following questions:
